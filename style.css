@@ -27,3 +27,8 @@ body,html {
 .boton-redireccion:hover{
     background-color: #0056b3;
 }
+.copyright{
+    margin-top: 20px;
+    font-size: 14px;
+    color: #333;
+}
