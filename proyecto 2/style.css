@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background: black;
+}
+
+.video-full {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+}
